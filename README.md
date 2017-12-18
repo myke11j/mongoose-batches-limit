@@ -28,3 +28,7 @@ myModel.findInBatches2(query, options, (err, docs, next) => {
   // All done
 });
 ```
+
+# Future work
+
+Soon, I will be adding sort option in it.
