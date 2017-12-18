@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-batches-limit",
+  "version": "1.0.0",
+  "description": "Find mongoose docs in batches with limit option",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myke11j/mongoose-batches-limit.git"
+  },
+  "keywords": [
+    "find",
+    "batch",
+    "mongo",
+    "mongoose",
+    "limit"
+  ],
+  "author": "Mukul <@mukul1904>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/myke11j/mongoose-batches-limit/issues"
+  },
+  "homepage": "https://github.com/myke11j/mongoose-batches-limit#readme"
+}
